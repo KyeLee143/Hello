@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+ <head> 
+  <title>Hello Welcome</title> 
+ </head>
+ <body> 
+  <h1>Hello, World</h1> <!-- Main heading. Larger numbers like h2 are for sub heading -->
+  <img src="CatHello.png" alt="purple kitty saying hello"> 
+  <p>
+   <b>A pleasure to meet you.</b>    I'm
+   creating this web page to teach 
+   people.
+  </p>
+  <a href="https://pixabay.com/images/search/butterfly/"> Where to find photo </a>
+ </body>
+</html> <!-- HTML closing tab -->
