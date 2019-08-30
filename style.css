@@ -9,10 +9,14 @@ body {
 	 background-color: Gainsboro;
   }
   p {
+   color: darkSlateBlue;
    font-family: verdana;
    background-color: Gainsboro;
   }
   img{
    margin: auto;
    display: block;
+   padding: 20px;
+   border: 10px solid PaleGreen;
+   margin: 20px;
   }
