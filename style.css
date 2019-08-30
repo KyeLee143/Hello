@@ -5,11 +5,11 @@ body {
   h1 {
    text-align: center;
    color: darkSlateBlue;
-    font-family: verdana;
+    font-family: Times;
   }
   p {
    color: darkSlateBlue;
-   font-family: verdana;
+   font-family: Times;
   }
   img{
    margin: auto;
